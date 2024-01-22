@@ -28,8 +28,6 @@ class OtherMessageBubble extends StatelessWidget {
         const SizedBox(
           height: 5,
         ),
-
-        // Todo: Imagen
         _ImageBubble(imageUrl: message.imageUrl!),
         const SizedBox(
           height: 10,
